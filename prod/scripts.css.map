@@ -1,0 +1,1 @@
+{"mappings":"AAAA","sources":["sass/style.scss"],"sourcesContent":["body {\n  background: tomato !important;\n  color: white !important;\n}\n"],"names":[],"version":3,"file":"scripts.css.map","sourceRoot":"../"}

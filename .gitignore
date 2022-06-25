@@ -1,0 +1,9 @@
+# Dependency directories
+node_modules/
+# Parcel related files
+dist/
+.parcel-cache/
+# Nova related files
+.nova/
+# Mac related files
+.DS_Store
